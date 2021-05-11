@@ -157,4 +157,10 @@ echo 'export COMMON_FF_CFG_FLAGS="$COMMON_FF_CFG_FLAGS --enable-openssl"' >> ../
    // 正常上传即可
    ```
 
+3. 注册cocoapods
+
+   ```
+   pod trunk register 644672334@qq.com "bairdweng" --description="bairdweng"
+   ```
+
    

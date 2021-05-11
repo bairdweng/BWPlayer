@@ -21,6 +21,7 @@ TODO: Add long description of the pod here.
   s.requires_arc  = true
   s.ios.deployment_target = '9.0'
   s.swift_version = "4.2"
+  s.source_files = 'MYSDK/Classes/**/*'
   s.vendored_frameworks = "BWPlayer/Frameworks/IJKMediaFramework.framework"
   s.frameworks = "AudioToolbox", "AVFoundation", "CoreGraphics", "CoreMedia", "CoreVideo", "MediaPlayer", "MobileCoreServices", "OpenGLES", "QuartzCore", "UIKit", "VideoToolbox"
   s.libraries = 'bz2','z','stdc++'
