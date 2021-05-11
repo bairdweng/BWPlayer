@@ -1,10 +1,11 @@
 use_frameworks!
 
 platform :ios, '9.0'
-
+# 远程的源
+# source 'https://github.com/bairdweng/BWSpecs.git'
 target 'BWPlayer_Example' do
-  pod 'BWPlayer', :path => '../'
-
+   pod 'BWPlayer', :path => '../'
+#  pod 'BWPlayer'
   target 'BWPlayer_Tests' do
     inherit! :search_paths
 

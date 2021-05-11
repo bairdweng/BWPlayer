@@ -2,15 +2,15 @@ PODS:
   - BWPlayer (0.1.0)
 
 DEPENDENCIES:
-  - BWPlayer (from `../`)
+  - BWPlayer
 
-EXTERNAL SOURCES:
-  BWPlayer:
-    :path: "../"
+SPEC REPOS:
+  https://github.com/bairdweng/BWSpecs:
+    - BWPlayer
 
 SPEC CHECKSUMS:
-  BWPlayer: d77cb7aba9a00905ba8cf3bbb03c3f5ba10f64d6
+  BWPlayer: 8e9c714440a3c7343b0fbc55887e6db1aa318a8d
 
-PODFILE CHECKSUM: 9f774b913245f08dfd089fd8ef200b99504b1e9c
+PODFILE CHECKSUM: 9668f9a99529e4b9f86b733e7bec5561b61876f0
 
 COCOAPODS: 1.7.5
