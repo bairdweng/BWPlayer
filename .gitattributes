@@ -1,1 +1,1 @@
-BWPlayer/Frameworks/IJKMediaFramework.framework filter=lfs diff=lfs merge=lfs -text
+BWPlayer/Frameworks/IJKMediaFramework.framework/IJKMediaFramework filter=lfs diff=lfs merge=lfs -text
