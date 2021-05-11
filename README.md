@@ -130,7 +130,7 @@ echo 'export COMMON_FF_CFG_FLAGS="$COMMON_FF_CFG_FLAGS --enable-openssl"' >> ../
 
    ```js
    // 本地的Space名称 & podspec
-   pod repo push BWSpecs BWPlayer.podspec
+   pod repo push BWSpecs BWPlayer.podspec --skip-import-validation --allow-warnings
    ```
 
 ##### 6. 使用自己的私有库
