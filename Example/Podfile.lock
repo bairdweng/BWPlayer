@@ -1,0 +1,16 @@
+PODS:
+  - BWPlayer (0.1.0)
+
+DEPENDENCIES:
+  - BWPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  BWPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BWPlayer: 495f587ea7357e364d4d01ef379b143339b9cc39
+
+PODFILE CHECKSUM: 9f774b913245f08dfd089fd8ef200b99504b1e9c
+
+COCOAPODS: 1.7.5
